@@ -40,7 +40,7 @@
 	<distributionManagement>
 	<repository>
 		<id>deploymentRepo</id>
-		<name>maven-Releases</name>
+		<name>mavenReleases</name>
 		<url>http://35.190.151.6:8081/repository/maven-releases/</url>
 	</repository>
  
