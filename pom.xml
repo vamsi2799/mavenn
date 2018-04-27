@@ -45,7 +45,7 @@
 	</repository>
  
 	<snapshotRepository>
-		<id>Snapshot</id>
+		<id>Release</id>
 		<name>maven-snapshot</name>
 		<url>http://35.231.4.126:8081/repository/maven-snapshot/</url>
 	</snapshotRepository>
